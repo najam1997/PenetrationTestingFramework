@@ -11,3 +11,6 @@ This repository contains references to all the relevant reports w.r.t Owasp Top 
 
 ### Report 2: [IDOR](https://medium.com/@zack0x01_/how-i-found-2-idors-on-my-phone-and-made-1-500-8b088f5b28db)
 📝: A basic IDOR on an API endpoint which the attacker can use to extract PII through id manipulation and the author used automation script to develop an interesting POC.
+
+### Report 3: [IDOR](https://medium.com/@0x_xnum/idor-leads-to-account-takeover-of-all-users-ato-27af312c8481)
+📝: An interesting case of IDOR, that used timestamp as the second source of validation but failed to validate authorization token, thus, leading to account takeover.
