@@ -18,3 +18,8 @@ This repository contains references to all the relevant reports w.r.t Owasp Top 
 
 ### [IDOR Case 4](https://medium.com/@melguerdawi/idor-lead-to-data-leak-c5107094f9ca)
 📝: A basic IDOR on an API endpoint through method manipulation.
+
+## Attack 2: Broken Authentication
+### Reports: 
+### [B.A Case 1](https://medium.com/@prajwalpatil453/how-i-found-my-first-p1-bug-705b6ba5e3e2)
+📝: A basic case of bruteforcing credentials. Tedious (because of recon and then individually attacking each subdomain) but rewarding task.
