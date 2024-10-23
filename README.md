@@ -1,4 +1,4 @@
-# Penetration Testing Framework
+# Penetration Testing Writeups
 This repository contains references to all the relevant reports w.r.t Owasp Top 10 vulnerabilities and many more.    
     Each attack and report will be provided a use case against which it'll be applicable to save time for viewers.
 
@@ -32,6 +32,9 @@ This repository contains references to all the relevant reports w.r.t Owasp Top 
 ### Reports: 
 ### [B.A Case 1](https://medium.com/@prajwalpatil453/how-i-found-my-first-p1-bug-705b6ba5e3e2)
 📝: A basic case of bruteforcing credentials. Tedious (because of recon and then individually attacking each subdomain) but rewarding task.
+
+### [B.A Case 2](https://medium.com/@bughunt789/forget-password-otp-flaw-lead-to-account-takeover-b3f2b847952b)
+📝: OTP bypass via response manipulation.
 
 ## Attack 3: Cross-site Scripting
 ### Reports: 
