@@ -29,3 +29,8 @@ This repository contains references to all the relevant reports w.r.t Owasp Top 
 ### Reports: 
 ### [B.A Case 1](https://medium.com/@prajwalpatil453/how-i-found-my-first-p1-bug-705b6ba5e3e2)
 📝: A basic case of bruteforcing credentials. Tedious (because of recon and then individually attacking each subdomain) but rewarding task.
+
+## Attack 3: Cross-site Scripting
+### Reports: 
+### [XSS Case 1](https://medium.com/@gg20205959/discovery-of-reflected-xss-vulnerability-on-a-global-car-website-2-ddfc7ba9f67d)
+📝: An interesting XSS case where payload is injected through declaration of a variable.
