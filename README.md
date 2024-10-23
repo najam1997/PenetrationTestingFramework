@@ -25,6 +25,9 @@ This repository contains references to all the relevant reports w.r.t Owasp Top 
 ### [IDOR Case 5](https://medium.com/@hawkeye69669/breaking-boundaries-discovering-session-invalidation-failures-in-user-roles-84711777f9f2)
 📝: A simple case, where a user who is admin is downgraded from the role but still has the rights to perform user deletion.
 
+### [IDOR Case 6](https://medium.com/@noureldin1042/single-endpoint-leads-to-two-bounties-400-7dd96cf601c7)
+📝: A couple of simple BAC vulnerabilities on API endpoints, one was the token still being active even after the user's removal. Second was request parameter manipulation when generating the token for additional rights.
+
 ## Attack 2: Broken Authentication
 ### Reports: 
 ### [B.A Case 1](https://medium.com/@prajwalpatil453/how-i-found-my-first-p1-bug-705b6ba5e3e2)
