@@ -42,6 +42,9 @@ This repository contains references to all the relevant reports w.r.t Owasp Top 
 ### [B.A Case 3](https://medium.com/@hohky_/jwt-authentication-bypass-leads-to-admin-control-panel-dfa6efcdcbf5)
 📝: A simple case of broken JWT mechanism where using the JSON Web Tokens extension in Burp, the attacker could change the **uid** of the user to bump their role to admin.
 
+### [B.A Case 3](https://medium.com/@khode4li/eyeglass-adventures-from-typos-to-admin-access-a-hackers-tale-0a3149acd6e9)
+📝: A simple case of parameter manipulation in response to bump the user's role to admin.
+
 ## Attack 3: Cross-site Scripting
 ### Reports: 
 ### [XSS Case 1](https://medium.com/@gg20205959/discovery-of-reflected-xss-vulnerability-on-a-global-car-website-2-ddfc7ba9f67d)
