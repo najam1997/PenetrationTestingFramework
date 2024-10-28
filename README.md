@@ -49,3 +49,11 @@ This repository contains references to all the relevant reports w.r.t Owasp Top 
 ### Reports: 
 ### [XSS Case 1](https://medium.com/@gg20205959/discovery-of-reflected-xss-vulnerability-on-a-global-car-website-2-ddfc7ba9f67d)
 📝: An interesting XSS case where payload is injected through declaration of a variable.
+
+## Attack 4: Cross-site Request Forgery
+### Reports: 
+### [CSRF Case 1](https://infosecwriteups.com/csrf-bypass-using-domain-confusion-leads-to-ato-ac682dd17722)
+📝: An
+
+### [CSRF Case 2]()
+📝: An
