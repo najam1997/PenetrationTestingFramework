@@ -57,3 +57,8 @@ This repository contains references to all the relevant reports w.r.t Owasp Top 
 
 ### [CSRF Case 2]()
 📝: An
+
+## Attack 5: Information Disclosure
+### Reports: 
+### [I.D Case 1](https://theabhishekbhujang.medium.com/exposing-a-data-leak-vulnerability-my-journey-to-discovery-7be93ce2c5b0)
+📝: An
