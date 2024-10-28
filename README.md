@@ -31,6 +31,9 @@ This repository contains references to all the relevant reports w.r.t Owasp Top 
 ### [IDOR Case 7](https://medium.com/@omdubey170/broken-access-control-vulnerability-in-an-order-management-system-8a1097b03926)
 📝: A basic case of IDOR where when the JWT token was removed, the API was giving all the user's data.
 
+### [IDOR Case 8](https://ro0od.medium.com/smart-recon-to-pwn-the-panel-a23b0b9466bb)
+📝: 
+
 ## Attack 2: Broken Authentication
 ### Reports: 
 ### [B.A Case 1](https://medium.com/@prajwalpatil453/how-i-found-my-first-p1-bug-705b6ba5e3e2)
