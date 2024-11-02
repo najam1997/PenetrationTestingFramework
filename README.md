@@ -76,6 +76,9 @@ the payload.
 ### [I.D Case 1](https://theabhishekbhujang.medium.com/exposing-a-data-leak-vulnerability-my-journey-to-discovery-7be93ce2c5b0)
 📝: An
 
+### [I.D Case 1](https://medium.com/@srishavinkumar/p3-medium-how-i-gain-access-to-nasas-internal-workspace-d0896fee563c)
+📝: A simple case of Information Disclosure through google dorks.
+
 ## Attack 6: Denial of Service
 ### Reports: 
 ### [DOS Multiple Cases](https://www.youtube.com/watch?v=b7WlUofPJpU)
