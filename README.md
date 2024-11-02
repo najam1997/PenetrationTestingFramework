@@ -51,6 +51,9 @@ This repository contains references to all the relevant reports w.r.t Owasp Top 
 ### [B.A Case 4](https://medium.com/@muhammedgalal66/oauth-account-takeover-ato-vulnerability-via-email-manipulation-94e0e942bcb8)
 📝: A case of improperly implemented Google Oauth in an app, that could be leveraged to generate login link for any email id.
 
+### [B.A Case 5](https://medium.com/@mos693570/0-click-ato-via-reset-password-weird-scenario-9afa4a88e413)
+📝: A simple case of password reset token working in the case of other emails as well due to which attacker is successfully able to change the password of the victim.
+
 ## Attack 3: Cross-site Scripting
 ### Reports: 
 ### [XSS Case 1](https://medium.com/@gg20205959/discovery-of-reflected-xss-vulnerability-on-a-global-car-website-2-ddfc7ba9f67d)
