@@ -78,7 +78,12 @@ the payload.
 ### [DOS Multiple Cases](https://www.youtube.com/watch?v=b7WlUofPJpU)
 📝: In this Defcon talk by Lupin, he discusses multiple types of DOS from easy to complex exploits.
 
-## Attack 6: Dependency Confusion
+## Attack 7: Dependency Confusion
 ### Reports: 
 ### [Case 1](https://medium.com/@omargamal4em/dependency-confusion-unleashed-how-one-misconfiguration-can-compromise-an-entire-system-e0df2a26c341)
 📝: A simple case of D.C where an npm package was found in recon that was claimable. The POC is easy to understand.
+
+## Attack 8: Injection
+### Reports: 
+### [Template Inj. Case 1](https://rikeshbaniya.medium.com/tale-of-zendesk-0-day-and-a-potential-25k-bounty-61bcf9c5dc06)
+📝: An interesting case of Template injection in zendesk in the subject body of the form.
