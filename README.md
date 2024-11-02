@@ -65,3 +65,8 @@ This repository contains references to all the relevant reports w.r.t Owasp Top 
 ### Reports: 
 ### [I.D Case 1](https://theabhishekbhujang.medium.com/exposing-a-data-leak-vulnerability-my-journey-to-discovery-7be93ce2c5b0)
 📝: An
+
+## Attack 6: Denial of Service
+### Reports: 
+### [DOS Multiple Cases](https://www.youtube.com/watch?v=b7WlUofPJpU)
+📝: In this Defcon talk by Lupin, he discusses multiple types of DOS from easy to complex exploits.
