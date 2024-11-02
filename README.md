@@ -74,3 +74,8 @@ the payload.
 ### Reports: 
 ### [DOS Multiple Cases](https://www.youtube.com/watch?v=b7WlUofPJpU)
 📝: In this Defcon talk by Lupin, he discusses multiple types of DOS from easy to complex exploits.
+
+## Attack 6: Dependency Confusion
+### Reports: 
+### [Case 1](https://medium.com/@omargamal4em/dependency-confusion-unleashed-how-one-misconfiguration-can-compromise-an-entire-system-e0df2a26c341)
+📝: A simple case of D.C where an npm package was found in recon that was claimable. The POC is easy to understand.
