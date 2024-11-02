@@ -90,3 +90,8 @@ the payload.
 ### Reports: 
 ### [Template Inj. Case 1](https://rikeshbaniya.medium.com/tale-of-zendesk-0-day-and-a-potential-25k-bounty-61bcf9c5dc06)
 📝: An interesting case of Template injection in zendesk in the subject body of the form.
+
+## Attack 9: Subdomain Takeover
+### Reports: 
+### [S.T Case 1](https://medium.com/@D2Cy/how-i-found-a-subdomain-takeover-bug-and-earned-a-500-bounty-0edc139fe994)
+📝: A simple case of subdomain takeover of the domain discovered through recon.
