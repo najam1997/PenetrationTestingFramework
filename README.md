@@ -53,6 +53,10 @@ This repository contains references to all the relevant reports w.r.t Owasp Top 
 ### [XSS Case 1](https://medium.com/@gg20205959/discovery-of-reflected-xss-vulnerability-on-a-global-car-website-2-ddfc7ba9f67d)
 📝: An interesting XSS case where payload is injected through declaration of a variable.
 
+### [XSS Case 2](https://infosecwriteups.com/persistent-xss-vulnerability-on-microsoft-bings-video-indexing-system-a46db992ac7b)
+📝: A stored XSS was found of bing when uploading a video on it. The most interesting part was, a simple **<script>** tag was used to trigger
+the payload.
+
 ## Attack 4: Cross-site Request Forgery
 ### Reports: 
 ### [CSRF Case 1](https://infosecwriteups.com/csrf-bypass-using-domain-confusion-leads-to-ato-ac682dd17722)
