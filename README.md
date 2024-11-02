@@ -48,6 +48,9 @@ This repository contains references to all the relevant reports w.r.t Owasp Top 
 ### [B.A Case 3](https://medium.com/@khode4li/eyeglass-adventures-from-typos-to-admin-access-a-hackers-tale-0a3149acd6e9)
 📝: A simple case of parameter manipulation in response to bump the user's role to admin.
 
+### [B.A Case 4](https://medium.com/@muhammedgalal66/oauth-account-takeover-ato-vulnerability-via-email-manipulation-94e0e942bcb8)
+📝: A case of improperly implemented Google Oauth in an app, that could be leveraged to generate login link for any email id.
+
 ## Attack 3: Cross-site Scripting
 ### Reports: 
 ### [XSS Case 1](https://medium.com/@gg20205959/discovery-of-reflected-xss-vulnerability-on-a-global-car-website-2-ddfc7ba9f67d)
