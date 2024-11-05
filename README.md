@@ -34,6 +34,9 @@ This repository contains references to all the relevant reports w.r.t Owasp Top 
 ### [IDOR Case 8](https://ro0od.medium.com/smart-recon-to-pwn-the-panel-a23b0b9466bb)
 📝: 
 
+### [IDOR Case 9](https://c0nqr0r.medium.com/idor-and-broken-access-control-risking-private-data-exposure-dd808412ed13)
+📝: A simple case of IDOR to retrieve background ID and then exploit broken access control to view reports. The enumeration in this report is good.
+
 ## Attack 2: Broken Authentication
 ### Reports: 
 ### [B.A Case 1](https://medium.com/@prajwalpatil453/how-i-found-my-first-p1-bug-705b6ba5e3e2)
