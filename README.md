@@ -57,6 +57,9 @@ This repository contains references to all the relevant reports w.r.t Owasp Top 
 ### [B.A Case 5](https://medium.com/@mos693570/0-click-ato-via-reset-password-weird-scenario-9afa4a88e413)
 📝: A simple case of password reset token working in the case of other emails as well due to which attacker is successfully able to change the password of the victim.
 
+### [B.A Case 6](https://rikeshbaniya.medium.com/abusing-auto-mail-responders-to-access-internal-workplaces-04fcc8ba2c99)
+📝: A very interesting case of emailing the victim through automated email in Figma and signing them up.
+
 ## Attack 3: Cross-site Scripting
 ### Reports: 
 ### [XSS Case 1](https://medium.com/@gg20205959/discovery-of-reflected-xss-vulnerability-on-a-global-car-website-2-ddfc7ba9f67d)
