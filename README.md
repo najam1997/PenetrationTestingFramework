@@ -108,6 +108,9 @@ the payload.
 ### [S.T Case 1](https://medium.com/@D2Cy/how-i-found-a-subdomain-takeover-bug-and-earned-a-500-bounty-0edc139fe994)
 📝: A simple case of subdomain takeover of the domain discovered through recon.
 
+### [S.T Case 1](https://medium.com/@whitedevil127/4o4-not-found-bounty-d784a69dab7f)
+📝: A simple case of subdomain takeover with interesting recon.
+
 ## Attack 10: Open-Redirect 
 ### Reports: 
 ### [O.R case 1](https://cyb3rc4t.medium.com/account-takeover-via-hidden-parameters-in-bbp-f65ce42ca96f)
