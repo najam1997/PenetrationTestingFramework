@@ -88,8 +88,11 @@ the payload.
 ### [I.D Case 1](https://theabhishekbhujang.medium.com/exposing-a-data-leak-vulnerability-my-journey-to-discovery-7be93ce2c5b0)
 📝: An
 
-### [I.D Case 1](https://medium.com/@srishavinkumar/p3-medium-how-i-gain-access-to-nasas-internal-workspace-d0896fee563c)
+### [I.D Case 2](https://medium.com/@srishavinkumar/p3-medium-how-i-gain-access-to-nasas-internal-workspace-d0896fee563c)
 📝: A simple case of Information Disclosure through google dorks.
+
+### [I.D Case 3](https://medium.com/@s1renhead/keyed-in-compromising-an-entire-organization-through-their-api-2ed6cb54eec5)
+📝: A simple case of API Key disclosure but interesting case of privelege escalation through recon.
 
 ## Attack 6: Denial of Service
 ### Reports: 
