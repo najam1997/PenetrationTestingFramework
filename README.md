@@ -69,6 +69,9 @@ This repository contains references to all the relevant reports w.r.t Owasp Top 
 ### [B.A Case 8](https://medium.com/@ProwlSec/the-oauth-oversight-when-configuration-errors-turn-into-account-hijacks-5ed1f9c83d16)
 📝: A simple case of oauth bypass where if the email is signed up manually, it'll log you in through Oauth as well.
 
+### [B.A Case 9](https://mo9khu93r.medium.com/discovered-a-unique-email-verification-bypass-47bb1e955a13)
+📝: A simple yet interesting case of Email Verification bypass where CSRF token and Session ID were used.
+
 ## Attack 3: Cross-site Scripting
 ### Reports: 
 ### [XSS Case 1](https://medium.com/@gg20205959/discovery-of-reflected-xss-vulnerability-on-a-global-car-website-2-ddfc7ba9f67d)
