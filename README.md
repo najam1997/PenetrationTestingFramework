@@ -37,6 +37,9 @@ This repository contains references to all the relevant reports w.r.t Owasp Top 
 ### [IDOR Case 9](https://c0nqr0r.medium.com/idor-and-broken-access-control-risking-private-data-exposure-dd808412ed13)
 📝: A simple case of IDOR to retrieve background ID and then exploit broken access control to view reports. The enumeration in this report is good.
 
+### [IDOR Case 10](https://0xmatrix.medium.com/idor-exploit-gaining-unauthorized-control-over-users-shopping-baskets-122650091cf5)
+📝: Interesting case of extracting sensitive info through GraphQL for IDOR.
+
 ## Attack 2: Broken Authentication
 ### Reports: 
 ### [B.A Case 1](https://medium.com/@prajwalpatil453/how-i-found-my-first-p1-bug-705b6ba5e3e2)
