@@ -78,6 +78,9 @@ This repository contains references to all the relevant reports w.r.t Owasp Top 
 📝: A stored XSS was found of bing when uploading a video on it. The most interesting part was, a simple **<script>** tag was used to trigger
 the payload.
 
+### [XSS Case 3](https://medium.com/@dsmodi484/alert-reflected-xss-detected-57850c34a61e)
+📝: An interesting case of character whitelist bypass to achieve RXSS.
+
 ## Attack 4: Cross-site Request Forgery
 ### Reports: 
 ### [CSRF Case 1](https://infosecwriteups.com/csrf-bypass-using-domain-confusion-leads-to-ato-ac682dd17722)
