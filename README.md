@@ -118,3 +118,8 @@ the payload.
 ### Reports: 
 ### [O.R case 1](https://cyb3rc4t.medium.com/account-takeover-via-hidden-parameters-in-bbp-f65ce42ca96f)
 📝: ATO via open redirect. The recon is simple and effective.
+
+## Attack 11: Race-Condition
+### Reports: 
+### [R.C case 1](https://medium.com/@manibharathi.b/breaking-the-rules-how-a-race-condition-allowed-me-to-bypass-the-limits-by-mani-d6840746a04e)
+📝: A simple case of Race Condition through executing multiple requests at the same time.
