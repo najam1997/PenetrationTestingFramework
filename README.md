@@ -139,6 +139,8 @@ https://cybersecuritywriteups.com/how-an-html-injection-vulnerability-in-samsung
 ### [Template Case 1](https://rikeshbaniya.medium.com/tale-of-zendesk-0-day-and-a-potential-25k-bounty-61bcf9c5dc06)
 📝: An interesting case of Template injection in zendesk in the subject body of the form.
 
+https://medium.com/@MianHammadx0root/exploiting-ssti-vulnerability-on-an-e-commerce-website-a-professional-walkthrough-6cc95afb2b38
+
 ### [File Uploade Case 1](https://medium.com/@domenicoveneziano/hidden-in-plain-sight-uncovering-rce-on-a-forgotten-axis2-instance-86ddc91f1415)
 📝: A simple case of Command Injection via File Upload.
 
