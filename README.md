@@ -159,3 +159,8 @@ https://cybersecuritywriteups.com/how-an-html-injection-vulnerability-in-samsung
 ### Reports: 
 ### [R.C case 1](https://medium.com/@manibharathi.b/breaking-the-rules-how-a-race-condition-allowed-me-to-bypass-the-limits-by-mani-d6840746a04e)
 📝: A simple case of Race Condition through executing multiple requests at the same time.
+
+## Attack 11: SSRF
+### Reports: 
+### [R.C case 1](https://mokhansec.medium.com/bypassing-filters-ssrf-exploitation-via-dns-rebinding-with-just-1-in-30-successful-requests-2fdc3a9cfd7d)
+📝: 
