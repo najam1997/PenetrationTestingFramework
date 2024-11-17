@@ -90,6 +90,9 @@ the payload.
 ### [XSS Case 3](https://7odamoo.medium.com/account-takeover-for-google-sso-users-b50f99b49f0d)
 📝: 
 
+### [XSS Case 3](https://medium.com/@sgzldmrc/xss-ve-context-%C3%B6rnekleri-6ba2bc976c1f)
+📝: 
+
 ## Attack 4: Cross-site Request Forgery
 ### Reports: 
 ### [CSRF Case 1](https://infosecwriteups.com/csrf-bypass-using-domain-confusion-leads-to-ato-ac682dd17722)
