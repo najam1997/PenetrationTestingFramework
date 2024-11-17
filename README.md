@@ -96,6 +96,8 @@ the payload.
 ### [XSS Case 3](https://blog.bhuwanbhetwal.com.np/breaking-in-how-rxss-and-sqli-can-lead-to-full-account-takeover-and-database-access)
 📝: 
 
+https://cybersecuritywriteups.com/how-an-html-injection-vulnerability-in-samsung-emails-led-to-a-payday-3dcfccc12a36
+
 ## Attack 4: Cross-site Request Forgery
 ### Reports: 
 ### [CSRF Case 1](https://infosecwriteups.com/csrf-bypass-using-domain-confusion-leads-to-ato-ac682dd17722)
