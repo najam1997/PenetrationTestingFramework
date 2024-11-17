@@ -142,6 +142,9 @@ https://cybersecuritywriteups.com/how-an-html-injection-vulnerability-in-samsung
 ### [File Uploade Case 1](https://medium.com/@domenicoveneziano/hidden-in-plain-sight-uncovering-rce-on-a-forgotten-axis2-instance-86ddc91f1415)
 📝: A simple case of Command Injection via File Upload.
 
+### [File Uploade Case 1](https://medium.com/@gheeX/how-i-found-an-sql-injection-in-coupon-code-f31d6eb1a720)
+📝:
+
 ## Attack 9: Subdomain Takeover
 ### Reports: 
 ### [S.T Case 1](https://medium.com/@D2Cy/how-i-found-a-subdomain-takeover-bug-and-earned-a-500-bounty-0edc139fe994)
