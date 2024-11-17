@@ -93,6 +93,9 @@ the payload.
 ### [XSS Case 3](https://medium.com/@sgzldmrc/xss-ve-context-%C3%B6rnekleri-6ba2bc976c1f)
 📝: 
 
+### [XSS Case 3](https://blog.bhuwanbhetwal.com.np/breaking-in-how-rxss-and-sqli-can-lead-to-full-account-takeover-and-database-access)
+📝: 
+
 ## Attack 4: Cross-site Request Forgery
 ### Reports: 
 ### [CSRF Case 1](https://infosecwriteups.com/csrf-bypass-using-domain-confusion-leads-to-ato-ac682dd17722)
