@@ -101,7 +101,7 @@ the payload.
 ### [CSRF Case 1](https://infosecwriteups.com/csrf-bypass-using-domain-confusion-leads-to-ato-ac682dd17722)
 📝: An
 
-### [CSRF Case 2]()
+### [CSRF Case 2](https://blog.bhuwanbhetwal.com.np/csrf-post-body-param-reflection-post-based-xss-a-brainfuck))
 📝: An
 
 ## Attack 5: Information Disclosure
