@@ -113,6 +113,10 @@ the payload.
 ### [Case 1](https://medium.com/@omargamal4em/dependency-confusion-unleashed-how-one-misconfiguration-can-compromise-an-entire-system-e0df2a26c341)
 📝: A simple case of D.C where an npm package was found in recon that was claimable. The POC is easy to understand.
 
+### Reports: 
+### [Case 2](https://mchklt.medium.com/rce-via-dependency-confusion-a-real-world-attack-on-unclaimed-npm-packages-11f9043d00d5)
+📝: 
+
 ## Attack 8: Injection
 ### Reports: 
 ### [Template Case 1](https://rikeshbaniya.medium.com/tale-of-zendesk-0-day-and-a-potential-25k-bounty-61bcf9c5dc06)
