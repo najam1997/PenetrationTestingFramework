@@ -84,6 +84,9 @@ the payload.
 ### [XSS Case 3](https://medium.com/@dsmodi484/alert-reflected-xss-detected-57850c34a61e)
 📝: An interesting case of character whitelist bypass to achieve RXSS.
 
+### [XSS Case 3](https://7odamoo.medium.com/account-takeover-for-google-sso-users-b50f99b49f0d)
+📝: 
+
 ## Attack 4: Cross-site Request Forgery
 ### Reports: 
 ### [CSRF Case 1](https://infosecwriteups.com/csrf-bypass-using-domain-confusion-leads-to-ato-ac682dd17722)
