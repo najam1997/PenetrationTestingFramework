@@ -104,6 +104,9 @@ the payload.
 ### [CSRF Case 2](https://blog.bhuwanbhetwal.com.np/csrf-post-body-param-reflection-post-based-xss-a-brainfuck))
 📝: An
 
+### [CSRF Case 2](https://hackerone.com/reports/1890310)
+📝: An
+
 ## Attack 5: Information Disclosure
 ### Reports: 
 ### [I.D Case 1](https://theabhishekbhujang.medium.com/exposing-a-data-leak-vulnerability-my-journey-to-discovery-7be93ce2c5b0)
