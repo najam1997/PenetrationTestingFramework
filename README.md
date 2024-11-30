@@ -159,6 +159,7 @@ the payload.
 ### https://medium.com/@mrcix/sensitive-data-exposure-in-a-moodle-config-file-648ca3d54676
 ### https://rhashibur75.medium.com/how-i-got-critical-p2-bug-on-google-vrp-165017145af8
 ### https://infosecwriteups.com/how-sensitive-information-disclosure-can-lead-to-account-takeover-vulnerabilities-4d18d2a3711d
+### https://infosecwriteups.com/critical-security-findings-at-the-university-of-cambridge-a-methodology-for-detecting-exposed-02df63976710
 
 ## Attack 6: Denial of Service
 ### Reports: 
