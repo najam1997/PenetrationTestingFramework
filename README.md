@@ -192,6 +192,7 @@ https://medium.com/@MianHammadx0root/exploiting-ssti-vulnerability-on-an-e-comme
 📝: ATO via open redirect. The recon is simple and effective.
 ### https://freedium.cfd/https://osintteam.blog/20-open-redirect-bugs-in-few-minutes-c9fdabf75642
 ### https://infosecwriteups.com/story-of-a-1000-open-redirect-1405fb8a0e7a
+### https://hackerone.com/reports/1479889
 
 ## Attack 11: Race-Condition
 ### Reports: 
