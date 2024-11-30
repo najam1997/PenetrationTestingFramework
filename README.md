@@ -89,6 +89,7 @@ This repository contains references to all the relevant reports w.r.t Owasp Top 
 ### https://0d-amr.medium.com/account-takeover-how-i-gained-access-to-any-user-account-through-a-simple-registration-flaw-96f9f6bdc0ae
 ### https://medium.com/@mrcix/bypass-of-username-policy-breaking-the-rules-with-a-simple-trick-fcf7ce97925c
 ### https://hamzadzworm.medium.com/critical-account-takeover-via-interesting-logic-issue-6e5f4ee86c5b
+### https://medium.com/@prakashchand72/authentication-bypass-mfa-account-takeover-32166aedb3b9
 
 ## Attack 3: Cross-site Scripting
 ### Reports: 
