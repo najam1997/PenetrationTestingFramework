@@ -123,6 +123,8 @@ the payload.
 ### [CSRF Case 2](https://hackerone.com/reports/1890310)
 📝: An
 
+### https://medium.com/@0ldRASHED/csrf-lead-to-account-takeover-with-1-click-f9c0c607612f
+
 ## Attack 5: Information Disclosure
 ### Reports: 
 ### [I.D Case 1](https://theabhishekbhujang.medium.com/exposing-a-data-leak-vulnerability-my-journey-to-discovery-7be93ce2c5b0)
