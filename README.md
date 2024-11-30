@@ -123,6 +123,7 @@ the payload.
 ### https://medium.com/@xrypt0/how-did-i-easily-find-stored-xss-at-apple-and-earn-5000-3aadbae054b2
 ### https://medium.com/@mohanad9837/here-is-how-i-got-my-first-bounty-78c18da7feeb
 ### https://cyb3rc4t.medium.com/stored-xss-privilege-escalation-in-profile-field-private-program-2bdde55e34b2
+### https://cyb3rc4t.medium.com/hidden-reflected-xss-via-android-application-in-vdp-68f4210196f1
 
 ## Attack 4: Cross-site Request Forgery
 ### Reports: 
