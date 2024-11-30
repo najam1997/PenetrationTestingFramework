@@ -150,6 +150,7 @@ the payload.
 ### https://freedium.cfd/https://infosecwriteups.com/how-i-earned-650-using-just-recon-a-bug-hunters-success-story-4d78788e46a5
 ### https://cybersecuritywriteups.com/unveiling-a-critical-bug-in-one-of-the-worlds-largest-banks-my-barclays-story-34a9fb5f5140
 ### https://medium.com/@mrcix/sensitive-data-exposure-in-a-moodle-config-file-648ca3d54676
+### https://rhashibur75.medium.com/how-i-got-critical-p2-bug-on-google-vrp-165017145af8
 
 ## Attack 6: Denial of Service
 ### Reports: 
