@@ -209,6 +209,7 @@ https://medium.com/@MianHammadx0root/exploiting-ssti-vulnerability-on-an-e-comme
 ### https://freedium.cfd/https://osintteam.blog/20-open-redirect-bugs-in-few-minutes-c9fdabf75642
 ### https://infosecwriteups.com/story-of-a-1000-open-redirect-1405fb8a0e7a
 ### https://hackerone.com/reports/1479889
+### https://keroayman77.medium.com/how-i-get-open-redirect-vulnerability-in-bbp-6006e5a34602
 
 ## Attack 11: Race-Condition
 ### Reports: 
