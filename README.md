@@ -145,6 +145,7 @@ the payload.
 ### https://sushantdhopat.medium.com/i-just-doing-recon-on-bugcrowd-public-program-and-was-trying-to-find-an-information-disclosure-on-99939e92732d
 ### https://freedium.cfd/https://infosecwriteups.com/how-i-earned-650-using-just-recon-a-bug-hunters-success-story-4d78788e46a5
 ### https://cybersecuritywriteups.com/unveiling-a-critical-bug-in-one-of-the-worlds-largest-banks-my-barclays-story-34a9fb5f5140
+### https://medium.com/@mrcix/sensitive-data-exposure-in-a-moodle-config-file-648ca3d54676
 
 ## Attack 6: Denial of Service
 ### Reports: 
