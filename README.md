@@ -43,6 +43,8 @@ This repository contains references to all the relevant reports w.r.t Owasp Top 
 ### [IDOR Case 10](https://medium.com/@suppaboy/how-a-unique-combination-opened-the-door-to-an-idor-f44a3efe51e8)
 📝:
 
+### https://medium.com/@abhinavsingwal/bug-report-broken-access-control-in-google-photos-d9c10ca8c472
+
 ## Attack 2: Broken Authentication
 ### Reports: 
 ### [B.A Case 1](https://medium.com/@prajwalpatil453/how-i-found-my-first-p1-bug-705b6ba5e3e2)
