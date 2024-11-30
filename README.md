@@ -131,6 +131,7 @@ the payload.
 📝: A simple case of API Key disclosure but interesting case of privelege escalation through recon.
 
 ### https://sushantdhopat.medium.com/i-just-doing-recon-on-bugcrowd-public-program-and-was-trying-to-find-an-information-disclosure-on-99939e92732d
+### https://freedium.cfd/https://infosecwriteups.com/how-i-earned-650-using-just-recon-a-bug-hunters-success-story-4d78788e46a5
 
 ## Attack 6: Denial of Service
 ### Reports: 
