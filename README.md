@@ -105,6 +105,7 @@ the payload.
 ### https://cybersecuritywriteups.com/how-an-html-injection-vulnerability-in-samsung-emails-led-to-a-payday-3dcfccc12a36
 ### https://xsametyigit.medium.com/3-reflected-xss-in-one-program-c50469c6d522
 ### https://medium.com/@ao64400225/an-unusual-way-to-find-xss-injection-in-one-minute-9ed2c7e2a848
+### https://cybersecuritywriteups.com/how-did-i-get-my-first-collaboration-bounty-of-1000-dc64ec02a6c7
 
 ## Attack 4: Cross-site Request Forgery
 ### Reports: 
