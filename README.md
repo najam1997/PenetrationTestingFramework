@@ -100,7 +100,8 @@ the payload.
 ### [XSS Case 3](https://blog.bhuwanbhetwal.com.np/breaking-in-how-rxss-and-sqli-can-lead-to-full-account-takeover-and-database-access)
 📝: 
 
-https://cybersecuritywriteups.com/how-an-html-injection-vulnerability-in-samsung-emails-led-to-a-payday-3dcfccc12a36
+### https://cybersecuritywriteups.com/how-an-html-injection-vulnerability-in-samsung-emails-led-to-a-payday-3dcfccc12a36
+### https://xsametyigit.medium.com/3-reflected-xss-in-one-program-c50469c6d522
 
 ## Attack 4: Cross-site Request Forgery
 ### Reports: 
