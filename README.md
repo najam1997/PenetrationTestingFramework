@@ -185,6 +185,7 @@ https://medium.com/@MianHammadx0root/exploiting-ssti-vulnerability-on-an-e-comme
 ### https://c0nqr0r.medium.com/error-based-sql-injection-with-waf-bypass-manual-exploit-100-bab36b769005
 ### https://p4n7h3rx.medium.com/file-upload-upload-intercept-exploit-b5aa18cb8e9d
 ### https://sushant-kamble.medium.com/account-takeover-chained-to-host-header-injection-7fef5a0c310a
+### https://infosecwriteups.com/how-i-leveraged-html-injection-to-create-an-account-using-someone-elses-email-b80f83ab9465
 
 ## Attack 9: Subdomain Takeover
 ### Reports: 
