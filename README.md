@@ -49,6 +49,7 @@ This repository contains references to all the relevant reports w.r.t Owasp Top 
 ### https://medium.com/@l_s_/honey-you-left-the-apis-open-again-c382a3a2d917
 ### https://hackerone.com/reports/2534458
 ### https://mo9khu93r.medium.com/how-i-bypassed-rate-limit-on-login-b600b15158ef
+### https://medium.com/@Ibrahimsec/how-i-found-an-idor-that-led-to-session-hijacking-9875a6bdb482
 
 ## Attack 2: Broken Authentication
 ### Reports: 
