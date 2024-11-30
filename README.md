@@ -46,6 +46,7 @@ This repository contains references to all the relevant reports w.r.t Owasp Top 
 ### https://medium.com/@abhinavsingwal/bug-report-broken-access-control-in-google-photos-d9c10ca8c472
 ### https://medium.com/@mahdisalhi0500/finding-my-first-bug-the-power-of-understanding-website-logic-%EF%B8%8F-4197dd08cf29
 ### https://appomni.com/ao-labs/microsoft-power-pages-data-exposure-reviewed/
+### https://medium.com/@l_s_/honey-you-left-the-apis-open-again-c382a3a2d917
 
 ## Attack 2: Broken Authentication
 ### Reports: 
