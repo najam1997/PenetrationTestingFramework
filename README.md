@@ -75,6 +75,8 @@ This repository contains references to all the relevant reports w.r.t Owasp Top 
 ### [B.A Case 9](https://mo9khu93r.medium.com/discovered-a-unique-email-verification-bypass-47bb1e955a13)
 📝: A simple yet interesting case of Email Verification bypass where CSRF token and Session ID were used.
 
+### https://medium.com/@cvjvqmmsm/easy-bug-how-i-uncovered-and-re-exploited-a-resolved-vulnerability-from-a-disclosed-report-ab2211a98b7b
+
 ## Attack 3: Cross-site Scripting
 ### Reports: 
 ### [XSS Case 1](https://medium.com/@gg20205959/discovery-of-reflected-xss-vulnerability-on-a-global-car-website-2-ddfc7ba9f67d)
