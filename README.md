@@ -81,6 +81,7 @@ This repository contains references to all the relevant reports w.r.t Owasp Top 
 
 ### https://medium.com/@cvjvqmmsm/easy-bug-how-i-uncovered-and-re-exploited-a-resolved-vulnerability-from-a-disclosed-report-ab2211a98b7b
 ### https://medium.com/@raxomara/logic-flaw-user-account-lockout-8865c622cef0
+### https://rikeshbaniya.medium.com/authorization-bypass-due-to-cache-misconfiguration-fde8b2332d2d
 
 ## Attack 3: Cross-site Scripting
 ### Reports: 
