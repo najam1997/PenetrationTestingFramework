@@ -85,6 +85,7 @@ This repository contains references to all the relevant reports w.r.t Owasp Top 
 ### https://medium.com/@raxomara/logic-flaw-user-account-lockout-8865c622cef0
 ### https://rikeshbaniya.medium.com/authorization-bypass-due-to-cache-misconfiguration-fde8b2332d2d
 ### https://blog.voorivex.team/oauth-non-happy-path-to-ato
+### https://0d-amr.medium.com/account-takeover-how-i-gained-access-to-any-user-account-through-a-simple-registration-flaw-96f9f6bdc0ae
 
 ## Attack 3: Cross-site Scripting
 ### Reports: 
