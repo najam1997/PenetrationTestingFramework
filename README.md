@@ -124,6 +124,8 @@ https://cybersecuritywriteups.com/how-an-html-injection-vulnerability-in-samsung
 ### [I.D Case 3](https://medium.com/@s1renhead/keyed-in-compromising-an-entire-organization-through-their-api-2ed6cb54eec5)
 📝: A simple case of API Key disclosure but interesting case of privelege escalation through recon.
 
+### https://sushantdhopat.medium.com/i-just-doing-recon-on-bugcrowd-public-program-and-was-trying-to-find-an-information-disclosure-on-99939e92732d
+
 ## Attack 6: Denial of Service
 ### Reports: 
 ### [DOS Multiple Cases](https://www.youtube.com/watch?v=b7WlUofPJpU)
