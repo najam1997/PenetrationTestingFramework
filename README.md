@@ -214,6 +214,7 @@ https://medium.com/@MianHammadx0root/exploiting-ssti-vulnerability-on-an-e-comme
 ### Reports: 
 ### [R.C case 1](https://medium.com/@manibharathi.b/breaking-the-rules-how-a-race-condition-allowed-me-to-bypass-the-limits-by-mani-d6840746a04e)
 📝: A simple case of Race Condition through executing multiple requests at the same time.
+### https://medium.com/@Nightblood/a-beautiful-bug-interesting-url-scheme-bypass-race-condition-61109771a250
 
 ## Attack 11: SSRF
 ### Reports: 
