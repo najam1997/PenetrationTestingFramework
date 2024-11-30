@@ -151,6 +151,7 @@ the payload.
 ### https://cybersecuritywriteups.com/unveiling-a-critical-bug-in-one-of-the-worlds-largest-banks-my-barclays-story-34a9fb5f5140
 ### https://medium.com/@mrcix/sensitive-data-exposure-in-a-moodle-config-file-648ca3d54676
 ### https://rhashibur75.medium.com/how-i-got-critical-p2-bug-on-google-vrp-165017145af8
+### https://infosecwriteups.com/how-sensitive-information-disclosure-can-lead-to-account-takeover-vulnerabilities-4d18d2a3711d
 
 ## Attack 6: Denial of Service
 ### Reports: 
