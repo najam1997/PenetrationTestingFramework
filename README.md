@@ -113,6 +113,7 @@ the payload.
 ### https://medium.com/@0xbugatti/how-hidden-3xxss-got-revealed-b42f041d36f6
 ### https://medium.com/@ziadsakr/xss-in-registration-form-a-bug-bounty-success-6fb9450b0e66
 ### https://wgetkb.medium.com/unique-xss-earned-me-a-bounty-b7156c36fd32
+### https://medium.com/@pedbap/wormable-xss-www-bing-com-7d7cb52e7a12
 
 ## Attack 4: Cross-site Request Forgery
 ### Reports: 
