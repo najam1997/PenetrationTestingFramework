@@ -161,6 +161,7 @@ https://medium.com/@MianHammadx0root/exploiting-ssti-vulnerability-on-an-e-comme
 📝:
 
 ### https://blog.voorivex.team/20300-bounties-from-a-200-hour-hacking-challenge
+### https://freedium.cfd/https://doordiefordream.medium.com/how-i-got-50euro-bounty-71dcf4c6e335
 
 ## Attack 9: Subdomain Takeover
 ### Reports: 
