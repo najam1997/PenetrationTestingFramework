@@ -180,3 +180,6 @@ https://medium.com/@MianHammadx0root/exploiting-ssti-vulnerability-on-an-e-comme
 ### Reports: 
 ### [R.C case 1](https://mokhansec.medium.com/bypassing-filters-ssrf-exploitation-via-dns-rebinding-with-just-1-in-30-successful-requests-2fdc3a9cfd7d)
 📝: 
+
+## Android 
+### https://infosecwriteups.com/how-i-hacked-billion-android-users-social-and-3rd-party-account-a-story-about-5000-bug-54d8b6ce75df
