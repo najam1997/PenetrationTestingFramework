@@ -147,6 +147,8 @@ https://medium.com/@MianHammadx0root/exploiting-ssti-vulnerability-on-an-e-comme
 ### [File Uploade Case 1](https://medium.com/@gheeX/how-i-found-an-sql-injection-in-coupon-code-f31d6eb1a720)
 📝:
 
+### https://blog.voorivex.team/20300-bounties-from-a-200-hour-hacking-challenge
+
 ## Attack 9: Subdomain Takeover
 ### Reports: 
 ### [S.T Case 1](https://medium.com/@D2Cy/how-i-found-a-subdomain-takeover-bug-and-earned-a-500-bounty-0edc139fe994)
