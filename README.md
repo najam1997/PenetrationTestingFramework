@@ -119,6 +119,7 @@ the payload.
 ### https://wgetkb.medium.com/unique-xss-earned-me-a-bounty-b7156c36fd32
 ### https://medium.com/@pedbap/wormable-xss-www-bing-com-7d7cb52e7a12
 ### https://bug-abdelilah.medium.com/account-takover-of-an-online-casino-e13987835266
+### https://medium.com/@xrypt0/how-did-i-easily-find-stored-xss-at-apple-and-earn-5000-3aadbae054b2
 
 ## Attack 4: Cross-site Request Forgery
 ### Reports: 
