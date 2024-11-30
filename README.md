@@ -117,6 +117,7 @@ the payload.
 ### https://medium.com/@ziadsakr/xss-in-registration-form-a-bug-bounty-success-6fb9450b0e66
 ### https://wgetkb.medium.com/unique-xss-earned-me-a-bounty-b7156c36fd32
 ### https://medium.com/@pedbap/wormable-xss-www-bing-com-7d7cb52e7a12
+### https://bug-abdelilah.medium.com/account-takover-of-an-online-casino-e13987835266
 
 ## Attack 4: Cross-site Request Forgery
 ### Reports: 
