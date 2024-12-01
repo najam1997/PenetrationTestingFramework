@@ -195,6 +195,7 @@ https://medium.com/@MianHammadx0root/exploiting-ssti-vulnerability-on-an-e-comme
 ### https://sushant-kamble.medium.com/account-takeover-chained-to-host-header-injection-7fef5a0c310a
 ### https://infosecwriteups.com/how-i-leveraged-html-injection-to-create-an-account-using-someone-elses-email-b80f83ab9465
 ### https://medium.com/@m_kasim2/exploiting-os-command-injection-a-real-world-scenario-4a2db1733137
+### https://medium.com/@pawarpushpak36/bug-bounty-chronicles-exploiting-the-put-method-for-remote-code-execution-rce-c2782bea61da
 
 ## Attack 9: Subdomain Takeover
 ### Reports: 
