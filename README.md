@@ -167,6 +167,7 @@ the payload.
 ### https://infosecwriteups.com/critical-security-findings-at-the-university-of-cambridge-a-methodology-for-detecting-exposed-02df63976710
 ### https://medium.com/@coyemerald/how-i-found-a-critical-p1-bug-in-one-of-googles-products-with-google-1c11352eba6f
 ### https://freedium.cfd/https://medium.com/@alishoaib5929/bug-bounty-series-found-an-api-key-by-just-running-simple-tool-c308a3a89ad8
+### https://medium.com/@kirtanpatel9111998/how-i-was-able-to-find-easy-p1-just-by-doing-recon-fdef0c689362
 
 ## Attack 6: Denial of Service
 ### Reports: 
