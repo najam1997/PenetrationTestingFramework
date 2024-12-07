@@ -170,6 +170,7 @@ the payload.
 ### https://freedium.cfd/https://medium.com/@alishoaib5929/bug-bounty-series-found-an-api-key-by-just-running-simple-tool-c308a3a89ad8
 ### https://medium.com/@kirtanpatel9111998/how-i-was-able-to-find-easy-p1-just-by-doing-recon-fdef0c689362
 ### https://infosecwriteups.com/from-recon-via-censys-and-dnsdumpster-to-getting-p1-by-login-using-weak-password-password-504e617956ce
+### https://sapt.medium.com/bypassing-403-protection-to-get-pagespeed-admin-access-822fab64c0b3
 
 ## Attack 6: Denial of Service
 ### Reports: 
