@@ -95,6 +95,7 @@ This repository contains references to all the relevant reports w.r.t Owasp Top 
 ### https://1-day.medium.com/an-idor-and-auth-bypass-that-led-to-mass-account-takeover-ksfe-db04cec8d730
 ### https://aungpyaekoko.medium.com/two-factor-authentication-bypass-50-5b397e68cfed
 ### https://freedium.cfd/https://medium.com/@sharp488/critical-account-takeover-mfa-auth-bypass-due-to-cookie-misconfiguration-3ca7d1672f9d
+### https://som3a.medium.com/0-click-ato-how-i-can-take-over-every-account-on-the-website-9a69c9afb57c
 
 ## Attack 3: Cross-site Scripting
 ### Reports: 
