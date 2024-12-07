@@ -248,6 +248,7 @@ https://medium.com/@MianHammadx0root/exploiting-ssti-vulnerability-on-an-e-comme
 📝: 
 ### https://infosecwriteups.com/ssrf-to-internal-data-access-via-pdf-print-feature-b8e6a912844a
 ### https://medium.com/@gguzelkokar.mdbf15/from-wayback-machine-to-aws-metadata-uncovering-ssrf-in-a-production-system-within-5-minutes-2d592875c9ab
+### https://medium.com/@gguzelkokar.mdbf15/from-wayback-machine-to-aws-metadata-uncovering-ssrf-in-a-production-system-within-5-minutes-2d592875c9ab
 
 ## Attack 12: HTTP Request Smuggling
 ### Reports:
