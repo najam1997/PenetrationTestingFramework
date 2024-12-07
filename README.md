@@ -133,6 +133,7 @@ the payload.
 ### https://cyb3rc4t.medium.com/hidden-reflected-xss-via-android-application-in-vdp-68f4210196f1
 ### https://medium.com/@chor4o/exploring-an-xss-vulnerability-in-a-hidden-parameter-099f8916cb9a
 ### https://f4t7.medium.com/xss-in-hidden-input-field-1b98a5fece26
+### https://medium.com/@snoopy101/1000-for-a-simple-stored-xss-8be7083a7c2d
 
 ## Attack 4: Cross-site Request Forgery
 ### Reports: 
