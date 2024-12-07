@@ -52,6 +52,7 @@ This repository contains references to all the relevant reports w.r.t Owasp Top 
 ### https://medium.com/@Ibrahimsec/how-i-found-an-idor-that-led-to-session-hijacking-9875a6bdb482
 ### https://medium.com/@srilakivarma/how-i-found-rce-vulnerability-in-an-api-endpoint-7cd02d77a239
 ### https://medium.com/@rawansa3ed2002/race-condition-exploit-enables-free-plan-users-to-access-premium-features-9619d0fa0a53
+### https://siratsami71.medium.com/1500-worth-slack-vulnerability-bypass-invite-accept-process-8204e5431d52
 
 ## Attack 2: Broken Authentication
 ### Reports: 
