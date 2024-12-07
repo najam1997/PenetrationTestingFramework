@@ -144,6 +144,7 @@ the payload.
 📝: An
 
 ### https://medium.com/@0ldRASHED/csrf-lead-to-account-takeover-with-1-click-f9c0c607612f
+### https://medium.com/@iPsalmy/exploiting-csrf-and-otp-reuse-how-weak-token-management-enables-password-reset-attacks-leading-to-c2f6b914f398
 
 ## Attack 5: Information Disclosure
 ### Reports: 
