@@ -168,6 +168,7 @@ the payload.
 ### https://medium.com/@coyemerald/how-i-found-a-critical-p1-bug-in-one-of-googles-products-with-google-1c11352eba6f
 ### https://freedium.cfd/https://medium.com/@alishoaib5929/bug-bounty-series-found-an-api-key-by-just-running-simple-tool-c308a3a89ad8
 ### https://medium.com/@kirtanpatel9111998/how-i-was-able-to-find-easy-p1-just-by-doing-recon-fdef0c689362
+### https://infosecwriteups.com/from-recon-via-censys-and-dnsdumpster-to-getting-p1-by-login-using-weak-password-password-504e617956ce
 
 ## Attack 6: Denial of Service
 ### Reports: 
