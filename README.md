@@ -202,6 +202,7 @@ https://medium.com/@MianHammadx0root/exploiting-ssti-vulnerability-on-an-e-comme
 ### https://medium.com/@pawarpushpak36/bug-bounty-chronicles-exploiting-the-put-method-for-remote-code-execution-rce-c2782bea61da
 ### https://medium.com/@srilakivarma/how-i-found-rce-vulnerability-in-an-api-endpoint-7cd02d77a239
 ### https://freedium.cfd/https://th3m4rk5man.medium.com/bypassed-an-admin-panel-using-sql-payloads-37529331aa1c
+### https://medium.com/@srilakivarma/how-i-found-rce-vulnerability-in-an-api-endpoint-7cd02d77a239
 
 ## Attack 9: Subdomain Takeover
 ### Reports: 
