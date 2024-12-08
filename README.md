@@ -152,7 +152,7 @@ the payload.
 ### https://medium.com/@0ldRASHED/csrf-lead-to-account-takeover-with-1-click-f9c0c607612f
 ### https://medium.com/@iPsalmy/exploiting-csrf-and-otp-reuse-how-weak-token-management-enables-password-reset-attacks-leading-to-c2f6b914f398
 
-## Attack 5: Information Disclosure
+## Attack 5: Information Disclosure and Automation
 ### Reports: 
 ### [I.D Case 1](https://theabhishekbhujang.medium.com/exposing-a-data-leak-vulnerability-my-journey-to-discovery-7be93ce2c5b0)
 📝: An
@@ -175,6 +175,7 @@ the payload.
 ### https://medium.com/@kirtanpatel9111998/how-i-was-able-to-find-easy-p1-just-by-doing-recon-fdef0c689362
 ### https://infosecwriteups.com/from-recon-via-censys-and-dnsdumpster-to-getting-p1-by-login-using-weak-password-password-504e617956ce
 ### https://sapt.medium.com/bypassing-403-protection-to-get-pagespeed-admin-access-822fab64c0b3
+### https://medium.com/@HX007/subdomain-fuzzing-worth-35k-bounty-daebcb56d9bc
 
 ## Attack 6: Denial of Service
 ### Reports: 
@@ -216,6 +217,7 @@ https://medium.com/@MianHammadx0root/exploiting-ssti-vulnerability-on-an-e-comme
 ### https://medium.com/@srilakivarma/how-i-found-rce-vulnerability-in-an-api-endpoint-7cd02d77a239
 ### https://medium.com/@red.whisperer/from-file-upload-to-lfi-a-journey-to-exploitation-02ab5e1a7d0a
 ### https://medium.com/@srilakivarma/the-hidden-flaw-sql-injection-in-a-file-download-api-endpoint-65b3819d168d
+### https://medium.com/@HX007/subdomain-fuzzing-worth-35k-bounty-daebcb56d9bc
 
 ## Attack 9: Subdomain Takeover
 ### Reports: 
