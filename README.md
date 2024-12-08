@@ -176,6 +176,7 @@ the payload.
 ### https://infosecwriteups.com/from-recon-via-censys-and-dnsdumpster-to-getting-p1-by-login-using-weak-password-password-504e617956ce
 ### https://sapt.medium.com/bypassing-403-protection-to-get-pagespeed-admin-access-822fab64c0b3
 ### https://medium.com/@HX007/subdomain-fuzzing-worth-35k-bounty-daebcb56d9bc
+### https://www.muqsitbaig.com/blog/a-tale-of-2-bugs/
 
 ## Attack 6: Denial of Service
 ### Reports: 
