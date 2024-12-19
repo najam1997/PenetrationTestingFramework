@@ -177,6 +177,7 @@ the payload.
 ### https://sapt.medium.com/bypassing-403-protection-to-get-pagespeed-admin-access-822fab64c0b3
 ### https://medium.com/@HX007/subdomain-fuzzing-worth-35k-bounty-daebcb56d9bc
 ### https://www.muqsitbaig.com/blog/a-tale-of-2-bugs/
+### https://freedium.cfd/https://medium.com/meetcyber/p3-bug-in-few-minutes-006f57913f71
 
 ## Attack 6: Denial of Service
 ### Reports: 
