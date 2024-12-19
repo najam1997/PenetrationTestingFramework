@@ -219,6 +219,7 @@ https://medium.com/@MianHammadx0root/exploiting-ssti-vulnerability-on-an-e-comme
 ### https://medium.com/@red.whisperer/from-file-upload-to-lfi-a-journey-to-exploitation-02ab5e1a7d0a
 ### https://medium.com/@srilakivarma/the-hidden-flaw-sql-injection-in-a-file-download-api-endpoint-65b3819d168d
 ### https://medium.com/@HX007/subdomain-fuzzing-worth-35k-bounty-daebcb56d9bc
+### https://medium.com/@HX007/subdomain-fuzzing-worth-35k-bounty-daebcb56d9bc
 
 ## Attack 9: Subdomain Takeover
 ### Reports: 
